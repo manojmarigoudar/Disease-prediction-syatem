@@ -82,8 +82,6 @@ Disease-Prediction-System/
 ├── patient_history.csv
 └── README.md
 ⚙ Installation
-Clone repository
-git clone https://github.com/chirag-bp/disease-prediction-system.git
 Install dependencies
 pip install pandas numpy scikit-learn matplotlib streamlit
 Run dashboard
@@ -107,7 +105,6 @@ Mobile healthcare application
 Deep Learning models
 👨‍💻 Author
 Manoj B
-
 Information Science Engineering Student
 Machine Learning | Data Science | Software Development
 
